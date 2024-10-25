@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Roboveda",
+        "date": "2024-11-12",
+        "location": "Main Auditorium, SNIST",
+        "description": "An annual robotics competition bringing together top talent to showcase innovative robotic designs and automation technologies."
+    },
+    {
+        "id": "2",
+        "name": "Sreevision",
+        "date": "2024-11-18",
+        "location": "Conference Hall B, SNIST",
+        "description": "Sreevision is an inter-departmental tech fest that highlights the latest advancements in engineering and technology."
+    },
+    {
+        "id": "3",
+        "name": "Ashwathama Sports Meet",
+        "date": "2024-12-01",
+        "location": "SNIST Sports Complex",
+        "description": "Annual sports event featuring competitions in athletics, basketball, football, and more."
+    },
+    {
+        "id": "4",
+        "name": "Sreeotsav",
+        "date": "2024-12-10",
+        "location": "Open Grounds, SNIST",
+        "description": "A cultural fest with vibrant performances, traditional dance competitions, music, and art exhibitions."
+    },
+    {
+        "id": "5",
+        "name": "Hackathon 2024",
+        "date": "2024-12-15",
+        "location": "Innovation Lab, SNIST",
+        "description": "48-hour hackathon where students collaborate to build solutions to real-world problems."
+    },
+    {
+        "id": "6",
+        "name": "Career Fair",
+        "date": "2025-01-20",
+        "location": "Student Center, SNIST",
+        "description": "Annual career fair connecting students with recruiters from leading companies."
+    }
+]

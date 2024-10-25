@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.056fbd4c.css",
+    "main.js": "/static/js/main.255523a1.js",
+    "static/media/wall.jpg": "/static/media/wall.32ea654352c5bcdfe60d.jpg",
+    "static/media/music.png": "/static/media/music.a0e5fcf997ac1123c865.png",
+    "static/media/sports.jpg": "/static/media/sports.4bea0bd8f10074961cc0.jpg",
+    "static/media/tech.jpg": "/static/media/tech.dd51006421de36683a9e.jpg",
+    "static/media/stalls.jpg": "/static/media/stalls.546d0dd9e5af4c6fc6e5.jpg",
+    "static/media/rg1.png.jpg": "/static/media/rg1.png.e5ce5e77556c8077bc6c.jpg",
+    "static/media/rigoled.jpg": "/static/media/rigoled.34bb5f2c4d1fd8b1ad91.jpg",
+    "static/media/sportsev.jpg": "/static/media/sportsev.fa3ca3aad2885a7066f3.jpg",
+    "static/media/dandiya.jpg": "/static/media/dandiya.677e02320aa8e8cf5064.jpg",
+    "static/media/adastra.jpg": "/static/media/adastra.c73b0710a1e3c51993d8.jpg",
+    "static/media/seminars.jpg": "/static/media/seminars.dc1304fddc0f831c0d63.jpg",
+    "static/media/reminders.png": "/static/media/reminders.4a7fe704fb19d42a989d.png",
+    "static/media/easy_registration.png": "/static/media/easy_registration.f35f7c98c318d7e62c59.png",
+    "static/media/logo1.png": "/static/media/logo1.d2668f7677e3610d0056.png",
+    "static/media/insights.png": "/static/media/insights.a8371b9308db7cbe8bb8.png",
+    "static/media/networking.png": "/static/media/networking.1141de0576f01fc810b7.png",
+    "static/media/carrerfair.jpg": "/static/media/carrerfair.80cbffe12127b3eafaee.jpg",
+    "index.html": "/index.html",
+    "main.056fbd4c.css.map": "/static/css/main.056fbd4c.css.map",
+    "main.255523a1.js.map": "/static/js/main.255523a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.056fbd4c.css",
+    "static/js/main.255523a1.js"
+  ]
+}
