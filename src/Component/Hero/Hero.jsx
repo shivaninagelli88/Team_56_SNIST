@@ -18,10 +18,7 @@ const Hero = () => {
            Your Gateway to College Events
         </h1>
         <p className="text-white mb-5">
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Pariatur
-          inventore voluptates consequuntur assumenda nulla maiores eligendi
-          blanditiis quam. Ex quo fugiat nesciunt sunt libero error accusantium
-          optio, tempore recusandae assumenda.
+          SNISTeve. is a dedicated event management platform designed exclusively for the students of Sreenidhi Institute of Science and Technology (SNIST). Our aim is to streamline the process of organizing, managing, and participating in college events, making it easier for both students and event organizers.
         </p>
         <div className="flex justify-center">
           <Link to="/Events">
